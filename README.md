@@ -8,7 +8,7 @@
      - [Live Portfolio- 👀](https://adilamin-dev.github.io/)
      - [E-mail- adilamin.dev@gmail.com](mailto:adilamin.dev@gmail.com)
 - 😄 Pronouns: He/ his.
-- ⚡ Fun fact: I link to play games for fun.
+- ⚡ Fun fact: I like to watch movies for fun.
 
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilamin-dev&show_icons=true&theme=graywhite)
 
