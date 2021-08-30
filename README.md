@@ -47,7 +47,7 @@
 
 [<img align="left" alt="Adil Amin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/adeelwilds)
 
-[<img align="left" alt="Adil Amin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adeelwilds/)
+[<img align="left" alt="Adil Amin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adil9/)
 
 [<img align="left" alt="Adil Amin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/adeelwilds_official/)
 
