@@ -54,11 +54,13 @@
 
 <!-- <img align="left" alt="Adil Amin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> -->
 
-[<img align="left" alt="Adil Amin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/adeelwilds)
+[<img align="left" alt="Front-End Web Developer | WordPress, Webflow & Shopify Expert" width="22px" src="https://raw.githubusercontent.com/adilamin-dev/adilamin-dev.github.io/43d414e87c6c0b42a30dcb29583afa081b62d58d/img/website-icon.svg" />](https://adilamin.com)
+
+[<img align="left" alt="Adil Amin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/adilaminDev)
 
 [<img align="left" alt="Adil Amin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adil9/)
 
-[<img align="left" alt="Adil Amin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/adeelwilds_official/)
+[<img align="left" alt="Adil Amin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adilamin_dev/)
 
 
 <!--
