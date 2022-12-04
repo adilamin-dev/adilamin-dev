@@ -48,7 +48,7 @@
 <!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
 </br>
 
-### Follow Me:
+### Contact Me:
 
 <!-- [<img align="left" alt="adeelwilds.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://adeelwilds.blogspot.com) -->
 
