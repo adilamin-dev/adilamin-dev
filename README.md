@@ -6,7 +6,6 @@
 - 💬 Ask me about Wordpress theme development.
 - 📫 How to reach me: 
      - [Live Portfolio 👀-](https://adilamin.com)
-     - <!-- [Live Portfolio 👀-](https://adilamin-dev.github.io/) -->
      - [E-mail 📧- adilamin.dev@gmail.com](mailto:adilamin.dev@gmail.com)
      - [Linktree 🌳- linktr.ee/adilamin](https://linktr.ee/adilamin/)
 - 😄 Pronouns: He/ his.
@@ -67,7 +66,7 @@
 
 <!--
 **adilamin-dev/adilamin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- [Live Portfolio 👀-](https://adilamin-dev.github.io/) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
