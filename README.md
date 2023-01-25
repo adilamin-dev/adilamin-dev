@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with Stackoverflow.
 - 💬 Ask me about Wordpress theme development.
 - 📫 How to reach me: 
-     - [Live Portfolio 👀-](https://adilamin-dev.github.io/)
+     - [Live Portfolio 👀-](https://adilamin.com)
+     - <!-- [Live Portfolio 👀-](https://adilamin-dev.github.io/) -->
      - [E-mail 📧- adilamin.dev@gmail.com](mailto:adilamin.dev@gmail.com)
      - [Linktree 🌳- linktr.ee/adilamin](https://linktr.ee/adilamin/)
 - 😄 Pronouns: He/ his.
