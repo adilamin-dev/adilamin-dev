@@ -63,10 +63,10 @@
 
 [<img align="left" alt="Adil Amin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adilamin_dev/)
 
-
+<!-- [Live Portfolio 👀-](https://adilamin-dev.github.io/) -->
 <!--
 **adilamin-dev/adilamin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- [Live Portfolio 👀-](https://adilamin-dev.github.io/) -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
