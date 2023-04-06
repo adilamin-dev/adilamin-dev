@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web development.
-- 🌱 I’m currently learning Wordpress theme development.
+- 🌱 I’m currently learning Reactjs.
 - 🤔 I’m looking for help with Stackoverflow.
 - 💬 Ask me about Wordpress theme development.
 - 📫 How to reach me: 
