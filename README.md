@@ -30,7 +30,7 @@
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" padding-top="30px" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/adilamin-dev/adilamin-dev.github.io/main/img/nodejs-logo.png" />
+<img align="left" margin-top="-7px" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/adilamin-dev/adilamin-dev.github.io/main/img/nodejs-logo.png" />
 
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist] -->
 
